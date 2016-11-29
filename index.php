@@ -19,6 +19,7 @@
 
         <script type="text/javascript" src="resources/js/jquery.js"></script>
         <script type="text/javascript" src="resources/js/bootstrap.js"></script>
+        <script type="text/javascript" src="resources/js/moment.js"></script>
 
     </head>
 
@@ -26,7 +27,7 @@
 
         <div class="jumbotron">
             <h1>HCY feed parser</h1>
-            <p>Sorteren, filteren controleren van de HCY feed voor Mailchimp.</p>
+            <p>Sorteren, filteren controleren van de HCY feed voor Mailchimp (<a href=http://hcypenburg.nl/site/rss/rss.asp>http://hcypenburg.nl/site/rss/rss.asp</a>)</p>
         </div>
 
         <div id="feed"></div>

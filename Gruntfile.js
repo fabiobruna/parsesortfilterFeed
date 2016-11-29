@@ -25,7 +25,8 @@ module.exports = function(grunt) {
               'js/jquery.js': 'jquery/dist/jquery.js',
               'js/bootstrap.js': 'bootstrap/dist/js/bootstrap.js',
               'css/bootstrap.css': 'bootstrap/dist/css/bootstrap.css',
-              'css/bootstrap-theme.css': 'bootstrap/dist/css/bootstrap-theme.css'
+              'css/bootstrap-theme.css': 'bootstrap/dist/css/bootstrap-theme.css',
+              'js/moment.js': 'moment/moment.js'
             }
         }
     }
