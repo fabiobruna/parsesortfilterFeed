@@ -18,8 +18,16 @@
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
         <script type="text/javascript" src="resources/js/jquery.js"></script>
+        <script type="text/javascript" src="resources/js/jquery-ui.js"></script>
+        <script type="text/javascript" src="resources/js/sortable.js"></script>
         <script type="text/javascript" src="resources/js/bootstrap.js"></script>
         <script type="text/javascript" src="resources/js/moment.js"></script>
+
+  <style>
+  #sortable { list-style-type: none; margin: 0; padding: 0; width: 60%; }
+  #sortable li { margin: 0 3px 3px 3px; padding: 0.4em; padding-left: 1.5em; font-size: 1.4em; height: 18px; }
+  #sortable li span { position: absolute; margin-left: -1.3em; }
+  </style>
 
     </head>
 
