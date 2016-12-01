@@ -9,25 +9,20 @@
         <title>HCY - feedparser</title>
 
         <link rel="stylesheet" href="resources/css/main.css">
-        <link rel="stylesheet" href="resources/css/bootstrap.css">
-        <link rel="stylesheet" href="resources/css/bootstrap-theme.css">
+        <link rel="stylesheet" href="resources/bootstrap/bootstrap.css">
+        <link rel="stylesheet" href="resources/bootstrap/bootstrap-theme.css">
+        <link rel="stylesheet" href="resources/jquery/jquery-ui.css">
 
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
         <meta charset="UTF-8">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
-        <script type="text/javascript" src="resources/js/jquery.js"></script>
-        <script type="text/javascript" src="resources/js/jquery-ui.js"></script>
-        <script type="text/javascript" src="resources/js/sortable.js"></script>
-        <script type="text/javascript" src="resources/js/bootstrap.js"></script>
-        <script type="text/javascript" src="resources/js/moment.js"></script>
-
-  <style>
-  #sortable { list-style-type: none; margin: 0; padding: 0; width: 60%; }
-  #sortable li { margin: 0 3px 3px 3px; padding: 0.4em; padding-left: 1.5em; font-size: 1.4em; height: 18px; }
-  #sortable li span { position: absolute; margin-left: -1.3em; }
-  </style>
+        <script type="text/javascript" src="resources/jquery/jquery.js"></script>
+        <script type="text/javascript" src="resources/jquery/jquery-ui.js"></script>
+        <script type="text/javascript" src="resources/jquery/sortable.js"></script>
+        <script type="text/javascript" src="resources/bootstrap/bootstrap.js"></script>
+        <script type="text/javascript" src="resources/moment/moment.js"></script>
 
     </head>
 
