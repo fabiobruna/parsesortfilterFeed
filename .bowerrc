@@ -1,0 +1,4 @@
+{
+  "proxy": "http://sa_datawarehouse:prU3rAsubEfruzUz@proxy.mchaaglanden.local:8080",
+  "https-proxy": "http://sa_datawarehouse:prU3rAsubEfruzUz@proxy.mchaaglanden.local:8080"
+ }
