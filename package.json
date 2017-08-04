@@ -12,5 +12,10 @@
     "grunt-contrib-uglify": "~0.5.0",
     "grunt-contrib-watch": "^1.0.0"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "grunt-rsync": "^2.0.1"
+  }
 }
